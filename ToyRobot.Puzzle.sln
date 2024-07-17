@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot.Puzzle", "ToyRobot.Puzzle.csproj", "{C9C79F55-22CD-4C93-A2DD-B4FB21719A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C79F55-22CD-4C93-A2DD-B4FB21719A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C79F55-22CD-4C93-A2DD-B4FB21719A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C79F55-22CD-4C93-A2DD-B4FB21719A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C79F55-22CD-4C93-A2DD-B4FB21719A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92772FB8-6851-4CA7-8009-A68E4DA40D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92772FB8-6851-4CA7-8009-A68E4DA40D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92772FB8-6851-4CA7-8009-A68E4DA40D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92772FB8-6851-4CA7-8009-A68E4DA40D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3187A8-7941-4FC6-9A18-F24D00F60478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3187A8-7941-4FC6-9A18-F24D00F60478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3187A8-7941-4FC6-9A18-F24D00F60478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3187A8-7941-4FC6-9A18-F24D00F60478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
